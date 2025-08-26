@@ -6,6 +6,12 @@ Implemented real-time object detection on an ESP32 using an Edge Impulse machine
 ## Objective
 To deploy a lightweight ML model on an embedded platform for real-time inference and object tracking.
 
+## Team Project
+Completed as part of a group of three students. My responsibilities included:
+- Deploying the trained Edge Impulse ML model on the ESP32
+- Testing Camera capabilities
+- Hardware Design: Powersupply, peripheral componenets and PCB design
+
 ## Tools & Technology
 - ESP32 WROVER-KIT
 - Edge Impulse
@@ -19,13 +25,18 @@ To deploy a lightweight ML model on an embedded platform for real-time inference
 - Learned model deployment, optimization, and embedded ML concepts  
 
 ## Files
-- `main.c` → ESP32 code  
-- `model.tflite` → trained ML model  
+- `ObjectDetection_with_Speaker.ino` → ESP32 code  
 - `wiring_diagram.png` → hardware setup  
 - `photos/` → pictures of running system  
 - Optional video link for demo  
 
+## Edge Impulse Studio
+- Below is the link and creditentials to access the edge impluse studio to see how the mdel was trained and deployed
+- Username: cem6254@psu.edu
+- Password: Group303
+- https://studio.edgeimpulse.com/studio/638971
+
 ## Demo Video
-https://drive.google.com/file/d/1jAv2l_jrdiVpRC7Owzx3ef-znJjLVotZ/view?usp=sharing
-https://drive.google.com/file/d/1Zt1hlwRVpGnAwZ7YTfU8PB0p8L9YGjNk/view?usp=sharing
+- https://drive.google.com/file/d/1jAv2l_jrdiVpRC7Owzx3ef-znJjLVotZ/view?usp=sharing
+- https://drive.google.com/file/d/1Zt1hlwRVpGnAwZ7YTfU8PB0p8L9YGjNk/view?usp=sharing
 
