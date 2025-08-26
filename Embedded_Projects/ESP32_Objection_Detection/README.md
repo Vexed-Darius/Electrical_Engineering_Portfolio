@@ -1,7 +1,7 @@
 # ESP32 Object Detection
 
 ## Description
-Implemented real-time object detection on an ESP32 using an Edge Impulse machine learning model. The system can detect objects and trigger actions based on detection.
+Implemented real-time object detection on an ESP32 using an Edge Impulse machine learning model. The system can detect objects and play a sound to alert the driver of distracted driving.
 
 ## Objective
 To deploy a lightweight ML model on an embedded platform for real-time inference and object tracking.
@@ -15,7 +15,7 @@ To deploy a lightweight ML model on an embedded platform for real-time inference
 
 ## Highlights
 - Real-time object detection with on-device inference  
-- Integrated camera feed and LED/display feedback  
+- Integrated camera feed and audio feedback 
 - Learned model deployment, optimization, and embedded ML concepts  
 
 ## Files
@@ -26,5 +26,6 @@ To deploy a lightweight ML model on an embedded platform for real-time inference
 - Optional video link for demo  
 
 ## Demo Video
-[Watch the ESP32 in action](https://drive.google.com/your-video-link)
+https://drive.google.com/file/d/1jAv2l_jrdiVpRC7Owzx3ef-znJjLVotZ/view?usp=sharing
+https://drive.google.com/file/d/1Zt1hlwRVpGnAwZ7YTfU8PB0p8L9YGjNk/view?usp=sharing
 
