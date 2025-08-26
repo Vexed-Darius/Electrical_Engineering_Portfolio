@@ -22,7 +22,6 @@ Design a Verilog module capable of receiving 8-bit serial data at 9600 baud and 
 - `UART_RCVR_tb.v` → testbench  
 - `UART_RCVR tb output B5.png` → screenshot of simulation
 - `UART_RCVR tb output FF.png` → screenshot of simulation  
-- `videos/uart_demo.mp4` → demo of hardware
 
-## Simulation
-![UART Waveform](simulation_waveform.png)
+## Video demo link
+https://drive.google.com/file/d/1jPuE135x5xQrAjE4vZsD6RgYHP5ge3sB/view?usp=sharing
