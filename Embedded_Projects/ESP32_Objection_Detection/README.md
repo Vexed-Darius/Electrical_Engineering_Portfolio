@@ -14,6 +14,7 @@ Completed as part of a group of three students. My responsibilities included:
 
 ## Tools & Technology
 - ESP32 WROVER-KIT
+- Custom PCB
 - Edge Impulse
 - Arduino IDE / PlatformIO
 - C/C++
@@ -26,9 +27,8 @@ Completed as part of a group of three students. My responsibilities included:
 
 ## Files
 - `ObjectDetection_with_Speaker.ino` → ESP32 code  
-- `wiring_diagram.png` → hardware setup  
-- `photos/` → pictures of running system  
-- Optional video link for demo  
+- `Final schematic without speaker.png` → Final schematic of components to be used  
+- `PCB layer layout` → Shows traces on PCB board with layout for components and ESP32  
 
 ## Edge Impulse Studio
 - Below is the link and creditentials to access the edge impluse studio to see how the mdel was trained and deployed
